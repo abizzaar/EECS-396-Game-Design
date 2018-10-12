@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f9051ab-ebde-4f75-b926-d780354a5f53" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="PlayerController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/PlayerController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="640">
+              <caret line="40" column="9" lean-forward="false" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+              <folding>
+                <marker date="1506475264000" expanded="true" signature="36:2874" ph="{...}" />
+                <marker date="1506475264000" expanded="true" signature="43:145" ph="/// Input handler for the Player's paddle. ... " />
+                <marker date="1506475264000" expanded="true" signature="195:2872" ph="{...}" />
+                <marker date="1506475264000" expanded="true" signature="666:731" ph="{...}" />
+                <marker date="1506475264000" expanded="true" signature="818:1370" ph="{...}" />
+                <marker date="1506475264000" expanded="true" signature="1421:1512" ph="{...}" />
+                <marker date="1506475264000" expanded="true" signature="1560:1650" ph="{...}" />
+                <marker date="1506475264000" expanded="true" signature="1661:1698" ph="/* Fill in these functions ... */" />
+                <marker date="1506475264000" expanded="true" signature="1708:1860" ph="/// Whether the D or Right Arrow Key is currently being pressed. ... " />
+                <marker date="1506475264000" expanded="true" signature="1899:1938" ph="{...}" />
+                <marker date="1506475264000" expanded="true" signature="1917:1938" ph="{...}" />
+                <marker date="1506475264000" expanded="true" signature="2836:2856" ph="{...}" />
+                <marker date="1506475264000" expanded="true" signature="2836:2866" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserInterface.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/UserInterface.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="33" column="9" lean-forward="false" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+              <folding>
+                <marker date="1506372576000" expanded="false" signature="6:73" ph="..." />
+                <marker date="1506372576000" expanded="true" signature="91:1564" ph="{...}" />
+                <marker date="1506372576000" expanded="true" signature="140:1562" ph="{...}" />
+                <marker date="1506372576000" expanded="true" signature="303:609" ph="{...}" />
+                <marker date="1506372576000" expanded="true" signature="620:661" ph="/* Fill in these two functions ... */" />
+                <marker date="1506372576000" expanded="true" signature="702:841" ph="{...}" />
+                <marker date="1506372576000" expanded="true" signature="716:779" ph="/* add a listener to the _quit button ... */" />
+                <marker date="1506372576000" expanded="true" signature="885:954" ph="{...}" />
+                <marker date="1506372576000" expanded="true" signature="965:1141" ph="/// Add a value to the Score and update the text appropriately ... " />
+                <marker date="1506372576000" expanded="true" signature="1190:1276" ph="{...}" />
+                <marker date="1506372576000" expanded="true" signature="1286:1390" ph="/// Called when the Quit button is clicked. Exits the game. ... " />
+                <marker date="1506372576000" expanded="true" signature="1434:1556" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Tutorial.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Tutorial.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="331">
+              <caret line="61" column="9" lean-forward="false" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
+              <folding>
+                <marker date="1506476395000" expanded="true" signature="6:54" ph="..." />
+                <marker date="1506476395000" expanded="true" signature="72:4047" ph="{...}" />
+                <marker date="1506476395000" expanded="true" signature="149:295" ph="{...}" />
+                <marker date="1506476395000" expanded="true" signature="339:4045" ph="{...}" />
+                <marker date="1506476395000" expanded="true" signature="691:1029" ph="{...}" />
+                <marker date="1506476395000" expanded="true" signature="1063:1183" ph="{...}" />
+                <marker date="1506476395000" expanded="true" signature="1193:1472" ph="/// Called (internally or externally) whenever the Player does something that might be of interest to the tutoria ... " />
+                <marker date="1506476395000" expanded="true" signature="1534:1708" ph="{...}" />
+                <marker date="1506476395000" expanded="true" signature="1727:1762" ph="/* Fill this function in ... */" />
+                <marker date="1506476395000" expanded="true" signature="2926:2965" ph="{...}" />
+                <marker date="1506476395000" expanded="true" signature="3093:3228" ph="/// Checks to see if interesting things are happening and updates the tutorial accordingly ... " />
+                <marker date="1506476395000" expanded="true" signature="3266:4039" ph="{...}" />
+                <marker date="1506476395000" expanded="true" signature="3516:3584" ph="{...}" />
+                <marker date="1506476395000" expanded="true" signature="3719:3787" ph="{...}" />
+                <marker date="1506476395000" expanded="true" signature="3965:4029" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>pressk</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UserInterface.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tutorial.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/UserInterface.cs" />
+        <option value="$PROJECT_DIR$/Assets/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tutorial.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Homework1 (1 project)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration default="true" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="false" name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f9051ab-ebde-4f75-b926-d780354a5f53" name="Default" comment="" />
+      <created>1506371109042</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1506371109042</updated>
+      <workItem from="1506371111270" duration="5097000" />
+      <workItem from="1506476616003" duration="98000" />
+      <workItem from="1506476765514" duration="281000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5476000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14761905" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/PlayerController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="40" column="9" lean-forward="false" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+          <folding>
+            <marker date="1506475264000" expanded="true" signature="36:2874" ph="{...}" />
+            <marker date="1506475264000" expanded="true" signature="43:145" ph="/// Input handler for the Player's paddle. ... " />
+            <marker date="1506475264000" expanded="true" signature="195:2872" ph="{...}" />
+            <marker date="1506475264000" expanded="true" signature="666:731" ph="{...}" />
+            <marker date="1506475264000" expanded="true" signature="818:1370" ph="{...}" />
+            <marker date="1506475264000" expanded="true" signature="1421:1512" ph="{...}" />
+            <marker date="1506475264000" expanded="true" signature="1560:1650" ph="{...}" />
+            <marker date="1506475264000" expanded="true" signature="1661:1698" ph="/* Fill in these functions ... */" />
+            <marker date="1506475264000" expanded="true" signature="1708:1860" ph="/// Whether the D or Right Arrow Key is currently being pressed. ... " />
+            <marker date="1506475264000" expanded="true" signature="1899:1938" ph="{...}" />
+            <marker date="1506475264000" expanded="true" signature="1917:1938" ph="{...}" />
+            <marker date="1506475264000" expanded="true" signature="2836:2856" ph="{...}" />
+            <marker date="1506475264000" expanded="true" signature="2836:2866" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/UserInterface.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="33" column="9" lean-forward="false" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+          <folding>
+            <marker date="1506372576000" expanded="false" signature="6:73" ph="..." />
+            <marker date="1506372576000" expanded="true" signature="91:1564" ph="{...}" />
+            <marker date="1506372576000" expanded="true" signature="140:1562" ph="{...}" />
+            <marker date="1506372576000" expanded="true" signature="303:609" ph="{...}" />
+            <marker date="1506372576000" expanded="true" signature="620:661" ph="/* Fill in these two functions ... */" />
+            <marker date="1506372576000" expanded="true" signature="702:841" ph="{...}" />
+            <marker date="1506372576000" expanded="true" signature="716:779" ph="/* add a listener to the _quit button ... */" />
+            <marker date="1506372576000" expanded="true" signature="885:954" ph="{...}" />
+            <marker date="1506372576000" expanded="true" signature="965:1141" ph="/// Add a value to the Score and update the text appropriately ... " />
+            <marker date="1506372576000" expanded="true" signature="1190:1276" ph="{...}" />
+            <marker date="1506372576000" expanded="true" signature="1286:1390" ph="/// Called when the Quit button is clicked. Exits the game. ... " />
+            <marker date="1506372576000" expanded="true" signature="1434:1556" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tutorial.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="976">
+          <caret line="61" column="9" lean-forward="true" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
+          <folding>
+            <marker date="1506476395000" expanded="true" signature="6:54" ph="..." />
+            <marker date="1506476395000" expanded="true" signature="72:4047" ph="{...}" />
+            <marker date="1506476395000" expanded="true" signature="149:295" ph="{...}" />
+            <marker date="1506476395000" expanded="true" signature="339:4045" ph="{...}" />
+            <marker date="1506476395000" expanded="true" signature="691:1029" ph="{...}" />
+            <marker date="1506476395000" expanded="true" signature="1063:1183" ph="{...}" />
+            <marker date="1506476395000" expanded="true" signature="1193:1472" ph="/// Called (internally or externally) whenever the Player does something that might be of interest to the tutoria ... " />
+            <marker date="1506476395000" expanded="true" signature="1534:1708" ph="{...}" />
+            <marker date="1506476395000" expanded="true" signature="1727:1762" ph="/* Fill this function in ... */" />
+            <marker date="1506476395000" expanded="true" signature="2926:2965" ph="{...}" />
+            <marker date="1506476395000" expanded="true" signature="3093:3228" ph="/// Checks to see if interesting things are happening and updates the tutorial accordingly ... " />
+            <marker date="1506476395000" expanded="true" signature="3266:4039" ph="{...}" />
+            <marker date="1506476395000" expanded="true" signature="3516:3584" ph="{...}" />
+            <marker date="1506476395000" expanded="true" signature="3719:3787" ph="{...}" />
+            <marker date="1506476395000" expanded="true" signature="3965:4029" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/PlayerController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="40" column="9" lean-forward="false" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+          <folding>
+            <marker date="1506475264000" expanded="true" signature="36:2874" ph="{...}" />
+            <marker date="1506475264000" expanded="true" signature="43:145" ph="/// Input handler for the Player's paddle. ... " />
+            <marker date="1506475264000" expanded="true" signature="195:2872" ph="{...}" />
+            <marker date="1506475264000" expanded="true" signature="666:731" ph="{...}" />
+            <marker date="1506475264000" expanded="true" signature="818:1370" ph="{...}" />
+            <marker date="1506475264000" expanded="true" signature="1421:1512" ph="{...}" />
+            <marker date="1506475264000" expanded="true" signature="1560:1650" ph="{...}" />
+            <marker date="1506475264000" expanded="true" signature="1661:1698" ph="/* Fill in these functions ... */" />
+            <marker date="1506475264000" expanded="true" signature="1708:1860" ph="/// Whether the D or Right Arrow Key is currently being pressed. ... " />
+            <marker date="1506475264000" expanded="true" signature="1899:1938" ph="{...}" />
+            <marker date="1506475264000" expanded="true" signature="1917:1938" ph="{...}" />
+            <marker date="1506475264000" expanded="true" signature="2836:2856" ph="{...}" />
+            <marker date="1506475264000" expanded="true" signature="2836:2866" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/UserInterface.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="33" column="9" lean-forward="false" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+          <folding>
+            <marker date="1506372576000" expanded="false" signature="6:73" ph="..." />
+            <marker date="1506372576000" expanded="true" signature="91:1564" ph="{...}" />
+            <marker date="1506372576000" expanded="true" signature="140:1562" ph="{...}" />
+            <marker date="1506372576000" expanded="true" signature="303:609" ph="{...}" />
+            <marker date="1506372576000" expanded="true" signature="620:661" ph="/* Fill in these two functions ... */" />
+            <marker date="1506372576000" expanded="true" signature="702:841" ph="{...}" />
+            <marker date="1506372576000" expanded="true" signature="716:779" ph="/* add a listener to the _quit button ... */" />
+            <marker date="1506372576000" expanded="true" signature="885:954" ph="{...}" />
+            <marker date="1506372576000" expanded="true" signature="965:1141" ph="/// Add a value to the Score and update the text appropriately ... " />
+            <marker date="1506372576000" expanded="true" signature="1190:1276" ph="{...}" />
+            <marker date="1506372576000" expanded="true" signature="1286:1390" ph="/// Called when the Quit button is clicked. Exits the game. ... " />
+            <marker date="1506372576000" expanded="true" signature="1434:1556" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tutorial.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1408">
+          <caret line="88" column="9" lean-forward="true" selection-start-line="60" selection-start-column="8" selection-end-line="88" selection-end-column="9" />
+          <folding>
+            <marker date="1506476395000" expanded="true" signature="6:54" ph="..." />
+            <marker date="1506476395000" expanded="true" signature="72:4047" ph="{...}" />
+            <marker date="1506476395000" expanded="true" signature="149:295" ph="{...}" />
+            <marker date="1506476395000" expanded="true" signature="339:4045" ph="{...}" />
+            <marker date="1506476395000" expanded="true" signature="691:1029" ph="{...}" />
+            <marker date="1506476395000" expanded="true" signature="1063:1183" ph="{...}" />
+            <marker date="1506476395000" expanded="true" signature="1193:1472" ph="/// Called (internally or externally) whenever the Player does something that might be of interest to the tutoria ... " />
+            <marker date="1506476395000" expanded="true" signature="1534:1708" ph="{...}" />
+            <marker date="1506476395000" expanded="true" signature="1727:1762" ph="/* Fill this function in ... */" />
+            <marker date="1506476395000" expanded="true" signature="2926:2965" ph="{...}" />
+            <marker date="1506476395000" expanded="true" signature="3093:3228" ph="/// Checks to see if interesting things are happening and updates the tutorial accordingly ... " />
+            <marker date="1506476395000" expanded="true" signature="3266:4039" ph="{...}" />
+            <marker date="1506476395000" expanded="true" signature="3516:3584" ph="{...}" />
+            <marker date="1506476395000" expanded="true" signature="3719:3787" ph="{...}" />
+            <marker date="1506476395000" expanded="true" signature="3965:4029" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assembly-CSharp.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/UserInterface.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="33" column="9" lean-forward="false" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+          <folding>
+            <marker date="1506372576000" expanded="false" signature="6:73" ph="..." />
+            <marker date="1506372576000" expanded="true" signature="91:1564" ph="{...}" />
+            <marker date="1506372576000" expanded="true" signature="140:1562" ph="{...}" />
+            <marker date="1506372576000" expanded="true" signature="303:609" ph="{...}" />
+            <marker date="1506372576000" expanded="true" signature="620:661" ph="/* Fill in these two functions ... */" />
+            <marker date="1506372576000" expanded="true" signature="702:841" ph="{...}" />
+            <marker date="1506372576000" expanded="true" signature="716:779" ph="/* add a listener to the _quit button ... */" />
+            <marker date="1506372576000" expanded="true" signature="885:954" ph="{...}" />
+            <marker date="1506372576000" expanded="true" signature="965:1141" ph="/// Add a value to the Score and update the text appropriately ... " />
+            <marker date="1506372576000" expanded="true" signature="1190:1276" ph="{...}" />
+            <marker date="1506372576000" expanded="true" signature="1286:1390" ph="/// Called when the Quit button is clicked. Exits the game. ... " />
+            <marker date="1506372576000" expanded="true" signature="1434:1556" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/PlayerController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="40" column="9" lean-forward="false" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+          <folding>
+            <marker date="1506475264000" expanded="true" signature="36:2874" ph="{...}" />
+            <marker date="1506475264000" expanded="true" signature="43:145" ph="/// Input handler for the Player's paddle. ... " />
+            <marker date="1506475264000" expanded="true" signature="195:2872" ph="{...}" />
+            <marker date="1506475264000" expanded="true" signature="666:731" ph="{...}" />
+            <marker date="1506475264000" expanded="true" signature="818:1370" ph="{...}" />
+            <marker date="1506475264000" expanded="true" signature="1421:1512" ph="{...}" />
+            <marker date="1506475264000" expanded="true" signature="1560:1650" ph="{...}" />
+            <marker date="1506475264000" expanded="true" signature="1661:1698" ph="/* Fill in these functions ... */" />
+            <marker date="1506475264000" expanded="true" signature="1708:1860" ph="/// Whether the D or Right Arrow Key is currently being pressed. ... " />
+            <marker date="1506475264000" expanded="true" signature="1899:1938" ph="{...}" />
+            <marker date="1506475264000" expanded="true" signature="1917:1938" ph="{...}" />
+            <marker date="1506475264000" expanded="true" signature="2836:2856" ph="{...}" />
+            <marker date="1506475264000" expanded="true" signature="2836:2866" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tutorial.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="61" column="9" lean-forward="false" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
+          <folding>
+            <marker date="1506476395000" expanded="true" signature="6:54" ph="..." />
+            <marker date="1506476395000" expanded="true" signature="72:4047" ph="{...}" />
+            <marker date="1506476395000" expanded="true" signature="149:295" ph="{...}" />
+            <marker date="1506476395000" expanded="true" signature="339:4045" ph="{...}" />
+            <marker date="1506476395000" expanded="true" signature="691:1029" ph="{...}" />
+            <marker date="1506476395000" expanded="true" signature="1063:1183" ph="{...}" />
+            <marker date="1506476395000" expanded="true" signature="1193:1472" ph="/// Called (internally or externally) whenever the Player does something that might be of interest to the tutoria ... " />
+            <marker date="1506476395000" expanded="true" signature="1534:1708" ph="{...}" />
+            <marker date="1506476395000" expanded="true" signature="1727:1762" ph="/* Fill this function in ... */" />
+            <marker date="1506476395000" expanded="true" signature="2926:2965" ph="{...}" />
+            <marker date="1506476395000" expanded="true" signature="3093:3228" ph="/// Checks to see if interesting things are happening and updates the tutorial accordingly ... " />
+            <marker date="1506476395000" expanded="true" signature="3266:4039" ph="{...}" />
+            <marker date="1506476395000" expanded="true" signature="3516:3584" ph="{...}" />
+            <marker date="1506476395000" expanded="true" signature="3719:3787" ph="{...}" />
+            <marker date="1506476395000" expanded="true" signature="3965:4029" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
